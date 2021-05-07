@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kelvinpellah
 - 👀 I’m interested in web development
-- 🌱 I’m travel the world by building apps
+- 🌱 I travel the world by building apps
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me-LinkedIn (https://www.linkedin.com/in/kelvinpella/ )
 
